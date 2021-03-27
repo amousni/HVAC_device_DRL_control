@@ -5,6 +5,8 @@ The algorithm based on DRL is applied on precision HVAC device for energy conser
 
 DDPG, PPO, SAC is tested in this project.
 
+DDPG based on TF1.X and PPO based on TF2.X and suitable tensorflow_probability package
+
 DDPG needs more exp. for training and gets a stable control preformance after nearly 30k epoches.
 
 PPO receives a not bad results with 10k to 20k epoches, and SAC is tested right now.
