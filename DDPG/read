@@ -1,0 +1,1 @@
+Stable DDPG algorithm contains 16-8 Actor and Critic network and gets 47% and 77% stable action outputs after nearly 400k epoches
